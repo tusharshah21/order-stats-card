@@ -11,7 +11,7 @@ export default function Stats() {
         </div>
 
       <div className="red-hat-medium absolute h-screen w-screen text-center mx-auto flex justify-center items-center">
-        <div className="text-[hsl(223,47%,23%)] shadow-2xl cardo md:w-[34%] w-[89%] bg-white rounded-2xl">
+        <div className="text-[hsl(223,47%,23%)] shadow-2xl cardo md:w-[34%] 2xl:w-[29%] w-[89%] bg-white rounded-2xl">
         <img src={heroimg} alt="heroimg" className="mx-auto w-full rounded-t-2xl" />
         <div className="px-2 lg:px-0 p-7">
         <h1 className="red-hat-black text-2xl">Order Summary</h1>
